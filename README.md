@@ -1,3 +1,18 @@
+# Mock Coding Bootcamp Landing Page
+A landing page for a made up coding bootcamp. Made following Traversy Media's Bootstrap Landing Page tutorial but using a React project instead of vanilla.
+
+![Landing Page Preview](preview/preview1)
+![Instructor Section Preview](preview/preview2)
+
+
+<br />
+---
+Todo:
+Replace map with model of a planet (Rygol 7) in space using Three.js.
+---
+<br />
+---
+<br />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
