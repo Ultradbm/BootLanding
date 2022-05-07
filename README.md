@@ -5,14 +5,17 @@ A landing page for a made up coding bootcamp. Made following Traversy Media's Bo
 ![Instructor Section Preview](preview/preview2)
 
 
-<br> </br>
 ---
-Todo:
+
+
+Todo: <br />
 Replace map with model of a planet (Rygol 7) in space using Three.js.
+
+
 ---
-<br> </br>
----
-<br></ br>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
