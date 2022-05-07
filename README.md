@@ -3,6 +3,8 @@ A landing page for a made up coding bootcamp. Made following Traversy Media's Bo
 
 <img src="preview/preview1.jpg" alt="Landing Page Preview"/>
 
+---
+
 <p align="center">
   <img src="preview/preview2.jpg" alt="Landing Page Preview" width="500px"/>
 </p>
