@@ -1,8 +1,8 @@
 # Mock Coding Bootcamp Landing Page
 A landing page for a made up coding bootcamp. Made following Traversy Media's Bootstrap Landing Page tutorial but using a React project instead of vanilla.
 
-![Landing Page Preview](preview/preview1)
-![Instructor Section Preview](preview/preview2)
+![Landing Page Preview](preview/preview1.jpg)
+![Instructor Section Preview](preview/preview2.jpg)
 
 
 ---
