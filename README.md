@@ -6,7 +6,7 @@ A landing page for a made up coding bootcamp. Made following Traversy Media's Bo
 ---
 
 <p align="center">
-  <img src="preview/preview2.jpg" alt="Landing Page Preview" width="500px"/>
+  <img src="preview/preview2.jpg" alt="Landing Page Preview" width="700px"/>
 </p>
 
 
