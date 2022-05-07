@@ -2,7 +2,12 @@
 A landing page for a made up coding bootcamp. Made following Traversy Media's Bootstrap Landing Page tutorial but using a React project instead of vanilla html/css/js.
 
 ![Landing Page Preview](preview/preview1.jpg)
+<img src="preview/preview1.jpg" alt="Landing Page Preview"/>
+
+
 ![Instructor Section Preview](preview/preview2.jpg)
+<img src="preview/preview2.jpg" alt="Landing Page Preview" width="500px"/>
+
 
 
 ---
